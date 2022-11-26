@@ -1,0 +1,39 @@
+<dataroot>
+  <tableViews>
+    <frmMain>
+      <settings>
+        <sizeWidth>
+          "603"
+        </sizeWidth>
+        <sizeHeight>
+          "725"
+        </sizeHeight>
+        <Maximized>
+          "False"
+        </Maximized>
+        <posLeft>
+          "381"
+        </posLeft>
+        <posTop>
+          "21"
+        </posTop>
+      </settings>
+    </frmMain>
+  </tableViews>
+</dataroot>
+<lists />
+<settings>
+  <RecentFiles>
+    "C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\2.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\4b.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\4.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\1.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\1b.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\2b.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\3.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\3b.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\5.jpg
+C:\Users\Windows 10\Documents\Proy_Unab_Camisetas\images\2.jpg
+"
+  </RecentFiles>
+</settings>
